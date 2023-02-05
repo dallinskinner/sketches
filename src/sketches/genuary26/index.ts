@@ -1,7 +1,7 @@
-import '../styles.css'
+import '../../styles.css'
 import p5 from 'p5'
-import { colorPalettes } from '../util/colorPalettes'
-import { ColorPalette } from '../class/ColorPalette'
+import { colorPalettes } from '../../util/colorPalettes'
+import { ColorPalette } from '../../class/ColorPalette'
 
 type Point = { x: number; y: number; color: string }
 

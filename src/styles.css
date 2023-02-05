@@ -1,5 +1,10 @@
 body {
-    font-family: sans-serif;
-    margin: 0;
-  }
-  
+  font-family: C64 Pro Mono;
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'C64 Pro Mono';
+  src: url('./assets/C64_Pro_Mono-STYLE.eot?') format('eot'), url('./assets/C64_Pro_Mono-STYLE.woff') format('woff'),
+    url('./assets/C64_Pro_Mono-STYLE.ttf') format('truetype');
+}

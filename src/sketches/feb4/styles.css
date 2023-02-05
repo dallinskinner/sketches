@@ -1,0 +1,21 @@
+body {
+  background-color: #0d1a1a;
+  margin: 0;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  display: none;
+}
+
+pre {
+  color: #add9bc;
+  font-size: 12px;
+  line-height: 1;
+  letter-spacing: 4.82;
+  font-family: Courier New;
+  display: inline;
+}
